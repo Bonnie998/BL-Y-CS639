@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bangling-new</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bio</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="previous">Previous</string>
+    <string name="contact">Contact</string>
+
+    <string name="lorem_ipsum">
+        My name is Bangling Yin, you can call me  Bonnie, and I am a graduate student at Pace
+        University. My undergraduate degree is in Marketing, and I had no prior experience with
+        coding before. Last semester, I took an "Introduction to Java" course, which served as my
+        first exposure to programming. Although I am still not very proficient, I am eager to learn
+        more.
+
+        I am particularly interested in mobile application development. However, I am aware that I
+        lack background knowledge and experience in this area, which may pose challenges.
+        Nonetheless, I believe in my ability to overcome these obstacles with perseverance.
+
+        I hope to receive support from both my instructors and classmates throughout this semester.
+        I am committed to putting in the effort and dedication required to learn and grow in this
+        field.
+
+        Thank you for the opportunity, and I look forward to collaborating with you all.
+    </string>
+    <string name="Hobbies">
+        My hobbies are riding and travelling.
+    </string>
+    <string name="Contact">
+        My email is by16496n@pace.edu.
+    </string>
+    <string name="action_about">about</string>
+    <string name="action_fb_show_text">by16496n@pace.edu</string>
+</resources>
