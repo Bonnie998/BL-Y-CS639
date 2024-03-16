@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="meterInput" type="id" />
+    <item name="convertButton" type="id" />
+    <item name="millimeterOutput" type="id" />
+</resources>
